@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+🙋‍♂️ I am new to open source and actively searching for projects to contribute to.
+
+🎓 Persuing Masters in Artificial Intelligence at Indian Institute of Technology.
+
+💻 I love Python but also like to code in other languages too.
